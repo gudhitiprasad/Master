@@ -6,3 +6,4 @@ def prime(n):
     return prime
 li=[2,4,3,5,6,7]
 print(list(filter(prime,li)))
+print("This is the first pushed project of mine in gihub")
